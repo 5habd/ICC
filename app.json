@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "book-donater",
+    "slug": "book-donater",
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bookLogo.png",
+    "splash": {
+      "image": "./assets/santa.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ff5757"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+     "android": {
+      "package": "com.shabd.raizada",
+      "versionCode": 1
+    }
+  }
+}
